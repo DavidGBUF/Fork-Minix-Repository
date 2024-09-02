@@ -1,6 +1,7 @@
 /* Debugging dump procedures for the kernel. */
 
 #include "inc.h"
+#include "ps2.h"
 #include <lib.h>
 #include <minix/timers.h>
 #include <assert.h>

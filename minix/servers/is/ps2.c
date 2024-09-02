@@ -7,6 +7,7 @@
 #include <limits.h>
 #include <timers.h>
 #include <sys/types.h>
+#include "ps2.h"
 
 #include <minix/const.h>
 #include <minix/type.h>

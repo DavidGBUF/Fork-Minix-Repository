@@ -5,7 +5,7 @@
 #include <minix/sysinfo.h>
 #include <minix/endpoint.h>
 #include <limits.h>
-#include <timer.h>
+#include <minix/timers.h>
 #include <sys/types.h>
 #include "ps2.h"
 

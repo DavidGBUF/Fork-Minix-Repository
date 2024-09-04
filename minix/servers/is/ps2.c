@@ -26,7 +26,7 @@
 #include <ttyent.h>
 
 #include <machine/archtypes.h>
-#include "kernel/const.h"
+#include <minix/const.h>
 #include "kernel/type.h"
 #include "kernel/proc.h"
 
